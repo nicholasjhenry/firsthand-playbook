@@ -6,7 +6,7 @@ Practices
 * Developing by Feature
 * Class (Code) Ownership
 * Feature Teams
-* [Inspections]
+* [[Inspections]]
 * Regular Build Schedule
 * Configuration Management
 * Reporting Visibility of Results
