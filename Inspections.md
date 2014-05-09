@@ -3,4 +3,6 @@ Inspections do not just involve reviewing the pull request online. It requires t
 The inspection includes:
 
 * Reviewing the efficiency of SQL queries (i.e. n+1 queries)
-* Follows [[Testing Guidelines]]
+* Follows [[Testing Style Guide]]
+* Follows Coding Style Guide
+* Follows Documentation Style Guide
