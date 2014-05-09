@@ -13,7 +13,7 @@ Practices
 
 Process
 
-* Develop an Overall Object Model
+* [[Develop an Overall Object Model]]
 * Build a Features List
 * Planning Feature Development
 * Designing by Feature
