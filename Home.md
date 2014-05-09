@@ -15,6 +15,6 @@ Process
 
 * [[Develop an Overall Object Model]]
 * [[Build a Features List]]
-* Planning Feature Development
+* [[Planning Feature Development]]
 * [[Designing by Feature]]
 * [[Build by Feature]]
