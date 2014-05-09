@@ -1,0 +1,1 @@
+* Follows the 3-tier testing pyramid
