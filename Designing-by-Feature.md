@@ -1,2 +1,2 @@
 * Domain Walk-through
-* Design
+* Design Work package
