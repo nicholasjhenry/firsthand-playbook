@@ -9,16 +9,16 @@
 
 For example:
 
-*Scheduling a Service*
+**Scheduling a Service**
 1. Schedule a _service_ for a car.
 1. Add a _new customer_ to a customer list.
 
-*Performing a Service*
+**Performing a Service**
 1. Record a _service preformed_ for a car.
 1. Record a list of parts used for a service.
 1. Record a total of labor expended for a service.
 
-*Billing a Service*
+**Billing a Service**
 1. Calculate a total cost of parts used for a service.
 1. Calculate a total cost of labor expended for a service.
 1. Calculate a total cost of tax of a service.
