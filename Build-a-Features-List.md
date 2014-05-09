@@ -7,7 +7,7 @@
 * Features are granular (max. less than 2-weeks, most take less)
 * Full feature template: `<action> the <result> <by|for|of|to> a(n) <object>`
 
-For example:
+For example **Car Service Management**:
 
 **Scheduling a Service**
 
