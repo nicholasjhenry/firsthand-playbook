@@ -3,6 +3,7 @@ Inspections do not just involve reviewing the pull request online. It requires t
 The inspection includes:
 
 * Reviewing the efficiency of SQL queries (i.e. n+1 queries)
+* Review features using some sort of profiler (MiniProfiler or NewRelic)
 * Follows [[Testing Style Guide]]
 * Follows Coding Style Guide
 * Follows Documentation Style Guide
