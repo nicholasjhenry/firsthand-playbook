@@ -2,5 +2,5 @@
 * Identify the top 10 features
 * Conduct a Domain Walkthrough
 * Study Documents
-* Brainstorm Features
+* Build a glossary
 * Develop a Model
