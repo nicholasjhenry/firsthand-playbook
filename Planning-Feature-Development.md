@@ -2,4 +2,4 @@
   * Deployment
   * Training
   * Data migration
-* Develop a release plan (weekly, monthly)
+* Develop a release plan (i.e. determine the sequence task)
