@@ -9,7 +9,7 @@ Practices
 * [[Inspections]]
 * Regular Build Schedule
 * Configuration Management
-* Reporting Visibility of Results
+* [[Reporting Visibility of Results]]
 
 Process
 
