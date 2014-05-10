@@ -3,3 +3,7 @@
   * Training
   * Data migration
 * Develop a release plan (i.e. determine the sequence task)
+
+Considerations:
+
+* feature dependencies
