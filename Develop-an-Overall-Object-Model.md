@@ -5,3 +5,7 @@
 * Study Documents
 * Build a glossary
 * Develop a Model
+
+**Tips**
+
+* Consider "Getting Started" from Object Modeling Wiki
