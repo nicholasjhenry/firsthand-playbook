@@ -1,5 +1,6 @@
 * 25-word purpose statement
-* Identify the top 10 features
+* Identify the top 10 features 
+* or High Value Scenarios (Scenarios for conducting business and determining results)
 * [[Four kinds of features]]
 * Conduct a Domain Walkthrough
 * Study Documents
