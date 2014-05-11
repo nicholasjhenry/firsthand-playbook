@@ -5,6 +5,7 @@
 * Conduct a Domain Walkthrough
 * Study Documents
 * Build a glossary
+* Consider UI sketches
 * Develop a Model
 
 **Tips**
