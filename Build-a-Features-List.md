@@ -16,7 +16,7 @@ For example **Car Service Management**:
 
 **Performing a Service**
 
-1. Record a _service preformed_ for a car.
+1. Record a _service performed_ for a car.
 1. Record a list of parts used for a service.
 1. Record a total of labor expended for a service.
 
