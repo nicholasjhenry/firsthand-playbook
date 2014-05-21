@@ -12,7 +12,7 @@
 12. Computed attributes
 13. Status Predicates
 14. Status Tests
-15. Status Events
+15. Services (Status Events)
 16. Association Accessors
 17. Association finders
 18. Utilities (other)
