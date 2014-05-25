@@ -7,3 +7,4 @@ The inspection includes:
 * Follows [[Testing Style Guide]]
 * Follows Coding Style Guide
 * Follows Documentation Style Guide
+* Conduct [Exploratory Testing](http://testobsessed.com/wp-content/uploads/2011/04/testheuristicscheatsheetv1.pdf)
