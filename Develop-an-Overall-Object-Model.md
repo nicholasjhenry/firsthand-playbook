@@ -12,3 +12,4 @@
 
 * Consider "Getting Started" from Object Modeling Wiki
 * Consider "Line of Visibility" chart
+* Consider reviewing existing object models from other books
