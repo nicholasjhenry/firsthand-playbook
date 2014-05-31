@@ -11,5 +11,5 @@
 **Tips**
 
 * Consider "Getting Started" from Object Modeling Wiki
-* Consider "Line of Visibility" chart
+* Consider "Line of Visibility" chart (LOVEM)
 * Consider reviewing existing object models from other books
