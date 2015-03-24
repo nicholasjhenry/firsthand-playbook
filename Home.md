@@ -22,3 +22,9 @@ Process
 * [[Planning Feature Development]]
 * [[Designing by Feature]]
 * [[Build by Feature]]
+
+Toolbox
+* [[Design Patterns]]
+* [[ActiveRecord Checklist]]
+* [[ActiveRecord Style Guide]]
+* [[Testing Style Guide]]
