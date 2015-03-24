@@ -29,3 +29,4 @@ Toolbox
 * [[ActiveRecord Style Guide]]
 * [[Testing Style Guide]]
 * [[Object-oriented Style Guide]]
+* [[Rails Architecture Guide]]
