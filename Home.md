@@ -28,3 +28,4 @@ Toolbox
 * [[ActiveRecord Checklist]]
 * [[ActiveRecord Style Guide]]
 * [[Testing Style Guide]]
+* [[Object-oriented Style Guide]]
