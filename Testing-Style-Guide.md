@@ -1,11 +1,11 @@
 Follows the 3-tier testing pyramid:
 
 1. End-to-End Tests
-- there are smoke tests to basically ensure everything is wired up correctly
-- [RSpec Integrated tests](https://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
+  - there are smoke tests to basically ensure everything is wired up correctly
+  - [RSpec Integrated tests](https://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 2. Acceptance Tests
-- Cucumber
+  - Cucumber
 3. Unit Tests
-- RSpec
+  - RSpec
 
 Require [SimpleCov](https://github.com/colszowka/simplecov) to ensure 100% test coverage.
