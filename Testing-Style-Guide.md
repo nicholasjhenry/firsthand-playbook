@@ -1,3 +1,7 @@
+Style:
+- [Mockists] (http://martinfowler.com/articles/mocksArentStubs.html) as in [GOOS](http://www.growing-object-oriented-software.com/)
+- Classicists when testing with interfaces we do not own
+
 Follows the 3-tier testing pyramid:
 
 1. End-to-End Tests
@@ -9,4 +13,5 @@ Follows the 3-tier testing pyramid:
 3. Unit Tests
   - RSpec
 
-Require [SimpleCov](https://github.com/colszowka/simplecov) to ensure 100% test coverage.
+Support tools:
+- [SimpleCov](https://github.com/colszowka/simplecov) to ensure 100% test coverage.
