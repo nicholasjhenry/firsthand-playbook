@@ -11,6 +11,10 @@ Practices
 * Configuration Management
 * [[Reporting Visibility of Results]]
 
+Additional Practices
+
+* [[Weekly Review]]
+
 Process
 
 * [[Develop an Overall Object Model]]
