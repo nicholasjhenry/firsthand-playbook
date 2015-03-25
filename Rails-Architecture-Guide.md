@@ -1,0 +1,5 @@
+- See [Example stack for a command in Rails](https://gist.github.com/nicholasjhenry/401621e0637ea372242b)
+- Separate "Management" modules (e.g. Device Management, Fluid Management)
+- Add 'standard' System module for User, Session, Tenant etc.
+- Define aggregate roots
+- No circular dependencies between aggregate roots
