@@ -3,4 +3,4 @@
 - Add 'standard' System module for User, Session, Tenant etc.
 - Define aggregate roots
 - No circular dependencies between aggregate roots
-- Design Domain model using [Modelling in Colour] method (http://www.step-10.com/SoftwareDesign/ModellingInColour/)
+- Design Domain model using [Modelling in Colour](http://www.step-10.com/SoftwareDesign/ModellingInColour/) method 
