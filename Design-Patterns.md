@@ -10,6 +10,8 @@
 * Protected Variations
 * Pure Fabrication
 
+Reference: [Wikipedia](http://en.wikipedia.org/wiki/GRASP_%28object-oriented_design%29)
+
 ## Domain Patterns
 
 * [Knowledge Level](http://colinjack.blogspot.ca/2008/10/domain-driven-design-knowledge-level.html)
