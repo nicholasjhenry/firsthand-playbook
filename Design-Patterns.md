@@ -14,6 +14,15 @@ Reference: [Wikipedia](http://en.wikipedia.org/wiki/GRASP_%28object-oriented_des
 
 ## Domain Patterns
 
+### General
+
+* [Peter Coad's 'Modeling in Color'](http://www.step-10.com/SoftwareDesign/ModellingInColour)
+* [Streamlined Modeling](http://mikeabney.com/som/index.html)
+* [Object Models](https://db.tt/UgbuNR6J)
+* [Analysis Patterns](http://martinfowler.com/books/ap.html)
+
+### Specific
+
 * [Knowledge Level](http://colinjack.blogspot.ca/2008/10/domain-driven-design-knowledge-level.html)
 * Null Object
 * [Role Object](http://hillside.net/plop/plop97/Proceedings/riehle.pdf)
