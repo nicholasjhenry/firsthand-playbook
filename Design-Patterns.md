@@ -28,3 +28,14 @@
 * Proxy
 
 ### Behavioural
+
+* Chain of Responsibility
+* Command
+* Interpreter
+* Mediator
+* Memento
+* Observer
+* State
+* Strategy
+* Template Method
+* Visitor
