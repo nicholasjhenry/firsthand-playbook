@@ -11,6 +11,20 @@
 
 ### Creational
 
+* Abstract Factory
+* Builder
+* Factory Method
+* Prototype
+* Singleton
+
 ### Structural
+
+* Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Flyweight
+* Proxy
 
 ### Behavioural
