@@ -7,7 +7,9 @@
 * Strategy
 * Process Object
 
-## Standard
+## Summary Standard
+
+See [[pattern examples]]
 
 ### Creational
 
@@ -39,3 +41,4 @@
 * Strategy
 * Template Method
 * Visitor
+
