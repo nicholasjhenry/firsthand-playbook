@@ -33,6 +33,7 @@ Reference: [Wikipedia](http://en.wikipedia.org/wiki/GRASP_%28object-oriented_des
 ## Summary Standard
 
 See [[pattern examples]]
+Reference: [NetObjectives Pattern Repository](http://www.netobjectivestest.com/PatternRepository/index.php?title=PatternsByEncapsulation)
 
 ### Creational
 
