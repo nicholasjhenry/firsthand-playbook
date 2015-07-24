@@ -66,3 +66,7 @@ Reference: [NetObjectives Pattern Repository](http://www.netobjectivestest.com/P
 * Template Method
 * Visitor
 
+### Uncategorized
+
+* Extension
+* Iterator
