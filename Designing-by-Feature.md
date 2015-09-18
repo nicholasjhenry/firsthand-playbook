@@ -4,6 +4,7 @@
 * Refine the object model
 * Determine business rules
 * Identify UI components
+* Specify the Acceptance Test (by example)
 
 Outputs:
 
