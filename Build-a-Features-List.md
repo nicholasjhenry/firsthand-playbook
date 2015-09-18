@@ -2,7 +2,7 @@
 | ---                            | ---                            | ---                           |
 | Major Feature Sets (aka Areas) | `<object> management`          | Car Service Management        |
 | Feature Sets (aka Activities)  | `<action><-ing> a(n) <object>` | Scheduling a Service          |
-| Feature                        | `<action><result><object>`     | Schedule a service for a car  |
+| Feature (aka Tasks)            | `<action><result><object>`     | Schedule a service for a car  |
 
 * Features are granular (max. less than 3-days, most take less)
 * Full feature template: `<action> the <result> <by|for|of|to> a(n) <object>`
