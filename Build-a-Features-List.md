@@ -29,3 +29,10 @@ For example **Car Service Management**:
 1. Send a bill to a customer.
 1. Receive a payment for a service.
 1. Print a receipt for a customer.
+
+## Extras
+
+Also include the following:
+* lists (e.g. List all pending services for the station)
+* reports (e.g. Report on average service total for the station)
+* chores (e.g. Version the services table)
