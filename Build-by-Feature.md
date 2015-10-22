@@ -1,4 +1,4 @@
-* Implement classes and methods
-* Conduct inspection
+* Implement
+* Review
 * Promote to build
 * End-user Acceptance
